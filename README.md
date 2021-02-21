@@ -10,4 +10,4 @@ That's all you have to know.
 You can add parameters to the script if you prefer to. There is no
 license, as this is just a small project that I made for educational/
 leisure purposes.
-## But still remember, this is MY work, and NO COPYING!
+
