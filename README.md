@@ -10,7 +10,7 @@ That's all you have to know.
 You can add parameters to the script if you prefer to. Licensed under
 GPLv2.
 ## Copyright info
-Batch file is copyright 2020-2021 Steve T.   
+Batch file is copyright 2020-2021 by randomtechkid.   
 
 youtube-dl is copyright 2006-2021 by youtube-dl developers.    
 
