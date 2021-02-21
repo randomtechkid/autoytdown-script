@@ -7,7 +7,5 @@ Copy the batch file to the same folder as your youtube-dl executable.
 Run it to begin.
 That's all you have to know.
 ## For experienced people
-You can add parameters to the script if you prefer to. There is no
-license, as this is just a small project that I made for educational/
-leisure purposes.
-
+You can add parameters to the script if you prefer to. Licensed under
+GPLv2.
